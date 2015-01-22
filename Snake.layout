@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="headers\global.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="64" />
+	</File>
+	<File name="headers\initialize.h" open="1" top="0" tabpos="7">
+		<Cursor position="616" topLine="72" />
+	</File>
+	<File name="high_score.c" open="1" top="0" tabpos="4">
+		<Cursor position="1132" topLine="0" />
+	</File>
+	<File name="initialize.c" open="1" top="0" tabpos="2">
+		<Cursor position="1123" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="5">
+		<Cursor position="229" topLine="0" />
+	</File>
+	<File name="map.c" open="1" top="1" tabpos="10">
+		<Cursor position="977" topLine="0" />
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="6">
+		<Cursor position="2551" topLine="0" />
+	</File>
+	<File name="post_game.c" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="63" />
+	</File>
+	<File name="snake.c" open="1" top="0" tabpos="3">
+		<Cursor position="76" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

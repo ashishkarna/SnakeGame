@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1330499070 source:d:\d\diwas\project\snake\main.c
+
+1328958780 d:\d\diwas\project\snake\snake.h
+
+1330599740 source:d:\d\diwas\project\snake\snake.c
+	"global.h"
+
+1328874965 d:\d\diwas\project\snake\main.h
+
+1330534344 source:d:\d\diwas\project\snake\initialize.c
+	"initialize.h"
+
+1330599762 d:\d\diwas\project\snake\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1330433929 source:d:\d\diwas\project\snake\levels.c
+	"global.h"
+
+1328949624 d:\d\diwas\project\snake\levels.h
+
+1330600717 source:d:\d\diwas\project\snake\score.c
+	"global.h"
+
+1328963212 d:\d\diwas\project\snake\score.h
+
+1329544641 source:k:\c_project\_snake_\snake\score.c
+	"global.h"
+
+1328963442 k:\c_project\_snake_\snake\score.h
+
+1329544897 source:k:\c_project\_snake_\snake\initialize.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"initialize.h"
+
+1329809449 k:\c_project\_snake_\snake\initialize.h
+
+1329577724 source:k:\c_project\_snake_\snake\main.c
+
+1329580778 source:k:\c_project\_snake_\snake\snake.c
+	"global.h"
+
+1329140453 k:\c_project\_snake_\snake\snake.h
+
+1329544641 source:k:\c_project\_snake_\snake\levels.c
+	"global.h"
+
+1329110680 k:\c_project\_snake_\snake\levels.h
+
+1329579748 k:\c_project\_snake_\snake\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1329544641 source:j:\snake\score.c
+	"global.h"
+
+1329579748 j:\snake\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1329544897 source:j:\snake\initialize.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"initialize.h"
+
+1329809449 j:\snake\initialize.h
+
+1329577724 source:j:\snake\main.c
+
+1329580778 source:j:\snake\snake.c
+	"global.h"
+
+1329544641 source:j:\snake\levels.c
+	"global.h"
+
+1330599740 d:\d\diwas\project\snake\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1330600996 source:d:\d\diwas\project\snake\high_score.c
+	"global.h"
+
+1330625765 source:k:\c_project\snake\main.c
+
+1330629774 source:k:\c_project\snake\score.c
+	"headers/global.h"
+
+1330631397 k:\c_project\snake\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330614312 source:k:\c_project\snake\high_score.c
+	"headers/global.h"
+
+1330631455 source:k:\c_project\snake\initialize.c
+	"headers/initialize.h"
+
+1330631397 k:\c_project\snake\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330629552 source:k:\c_project\snake\snake.c
+	"headers/global.h"
+
+1330609570 source:k:\c_project\snake\levels.c
+	"headers/global.h"
+
+1330631397 source:k:\c_project\snake\menu.c
+	"headers/global.h"
+
+1330631455 source:c:\users\slayer\desktop\snake_project_final\initialize.c
+	"headers/initialize.h"
+
+1330631397 c:\users\slayer\desktop\snake_project_final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330625765 source:c:\users\slayer\desktop\snake_project_final\main.c
+
+1330631397 source:c:\users\slayer\desktop\snake_project_final\menu.c
+	"headers/global.h"
+
+1330662020 c:\users\slayer\desktop\snake_project_final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330629552 source:c:\users\slayer\desktop\snake_project_final\snake.c
+	"headers/global.h"
+
+1330614312 source:c:\users\slayer\desktop\snake_project_final\high_score.c
+	"headers/global.h"
+
+1330609570 source:c:\users\slayer\desktop\snake_project_final\map.c
+	"headers/global.h"
+
+1330661425 source:c:\users\slayer\desktop\snake_project_final\post_game.c
+	"headers/global.h"
+
+1330664653 source:c:\users\slayer\desktop\snakeproject final\main.c
+
+1330609570 source:c:\users\slayer\desktop\snakeproject final\map.c
+	"headers/global.h"
+
+1330664653 c:\users\slayer\desktop\snakeproject final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664653 source:c:\users\slayer\desktop\snakeproject final\menu.c
+	"headers/global.h"
+
+1330661425 source:c:\users\slayer\desktop\snakeproject final\post_game.c
+	"headers/global.h"
+
+1330664104 source:c:\users\slayer\desktop\snakeproject final\snake.c
+	"headers/global.h"
+
+1330664653 source:c:\users\slayer\desktop\snakeproject final\high_score.c
+	"headers/global.h"
+
+1330664104 source:c:\users\slayer\desktop\snakeproject final\initialize.c
+	"headers/initialize.h"
+
+1330664653 c:\users\slayer\desktop\snakeproject final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664106 source:f:\snakeproject final\initialize.c
+	"headers/initialize.h"
+
+1330664654 f:\snakeproject final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:f:\snakeproject final\main.c
+
+1330609572 source:f:\snakeproject final\map.c
+	"headers/global.h"
+
+1330664654 f:\snakeproject final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:f:\snakeproject final\menu.c
+	"headers/global.h"
+
+1330664106 source:f:\snakeproject final\snake.c
+	"headers/global.h"
+
+1330664654 source:f:\snakeproject final\high_score.c
+	"headers/global.h"
+
+1330664106 source:c:\users\aashish\desktop\snakeproject final\initialize.c
+	"headers/initialize.h"
+
+1330664654 c:\users\aashish\desktop\snakeproject final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:c:\users\aashish\desktop\snakeproject final\main.c
+
+1330609572 source:c:\users\aashish\desktop\snakeproject final\map.c
+	"headers/global.h"
+
+1330664654 c:\users\aashish\desktop\snakeproject final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:c:\users\aashish\desktop\snakeproject final\menu.c
+	"headers/global.h"
+
+1330664106 source:c:\users\aashish\desktop\snakeproject final\snake.c
+	"headers/global.h"
+
+1330664654 source:c:\users\aashish\desktop\snakeproject final\high_score.c
+	"headers/global.h"
+
+1330667706 source:d:\c programming\snakeproject final\initialize.c
+	"headers/initialize.h"
+
+1330668254 d:\c programming\snakeproject final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330668254 source:d:\c programming\snakeproject final\main.c
+
+1330613172 source:d:\c programming\snakeproject final\map.c
+	"headers/global.h"
+
+1330668254 d:\c programming\snakeproject final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330668254 source:d:\c programming\snakeproject final\menu.c
+	"headers/global.h"
+
+1330667706 source:d:\c programming\snakeproject final\snake.c
+	"headers/global.h"
+
+1330668254 source:d:\c programming\snakeproject final\high_score.c
+	"headers/global.h"
+
+1330664106 source:d:\programming\graphic library\allegro\snakeproject final\initialize.c
+	"headers/initialize.h"
+
+1330664654 d:\programming\graphic library\allegro\snakeproject final\headers\initialize.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:d:\programming\graphic library\allegro\snakeproject final\main.c
+
+1330609572 source:d:\programming\graphic library\allegro\snakeproject final\map.c
+	"headers/global.h"
+
+1330664654 d:\programming\graphic library\allegro\snakeproject final\headers\global.h
+	<string.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1330664654 source:d:\programming\graphic library\allegro\snakeproject final\menu.c
+	"headers/global.h"
+
+1330665642 source:d:\programming\graphic library\allegro\snakeproject final\post_game.c
+	"headers/global.h"
+
+1330664106 source:d:\programming\graphic library\allegro\snakeproject final\snake.c
+	"headers/global.h"
+
+1330664654 source:d:\programming\graphic library\allegro\snakeproject final\high_score.c
+	"headers/global.h"
+
